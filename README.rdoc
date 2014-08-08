@@ -1,0 +1,7 @@
+= Redmine Memberbox Heidi
+
+Simple Plugin to hide Memberbox from Redmine Project Overview
+
+Please name the directory member_box_heidi
+
+Testes on Redmine 2.5.x
